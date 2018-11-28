@@ -1,0 +1,8 @@
+.stepper-div {
+  display: flex;
+}
+
+h5 {
+  min-width: 50px;
+  text-align: center;
+}
